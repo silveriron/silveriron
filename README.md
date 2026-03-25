@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 ### Languages
 
-- **Native:** Korean
-- **Fluent / Business:**
+- **Native**
+  - Korean
+- **Fluent / Business**
   - English (Academic purpose)
   - Japanese (Business level, JLPT N1)
   - Chinese (Proficient in reading/writing, HSK 5)
