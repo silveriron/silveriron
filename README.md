@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - Undergraduate Researcher at Sogang University, Seoul KR (Jun 2021 - Feb 2022)
 
-- B.S. in Chemistry & B.E. in Education Culture (Double Major) at Sogang University, Seoul KR (Feb 2015 - Feb 2022)
+- B.S. in Chemistry & B.Ed. in Educational Culture (Double Major) at Sogang University, Seoul KR (Feb 2015 - Feb 2022)
   - Magna Cum Laude
  
 ## Research Interests
