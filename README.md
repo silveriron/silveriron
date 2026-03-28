@@ -73,7 +73,7 @@
 
 ## Contacts
 
-- LinkedIn: https://linkedin.com/in/eun-cheol-kim-0aa599374
+- LinkedIn: https://linkedin.com/in/eun-cheol-kim
 - Google Scholar: https://scholar.google.com/citations?user=1gTAhbQAAAAJ
 - ORCID: https://orcid.org/0000-0001-9034-1316
 - E-mail: silveriron.4726@gmail.com
