@@ -66,9 +66,9 @@
  
 - **Seoul National University**, Seoul, Republic of Korea (Mar 2025 – Present)
   - Ph.D. Student in Chemistry | Advisor: Prof. YounJoon Jung
-- **Sogang University**, Seoul, Republic of Korea (Feb 2022 – Feb 2024)
+- **Sogang University**, Seoul, Republic of Korea (Mar 2022 – Feb 2024)
   - M.S. in Chemistry | Advisor: Prof. Bong June Sung
-- **Sogang University**, Seoul, Republic of Korea (Feb 2015 – Feb 2022)
+- **Sogang University**, Seoul, Republic of Korea (Mar 2015 – Feb 2022)
   - B.S. in Chemistry & B.Ed. in Educational Culture (**Double Major**)
 
 ## Contacts
