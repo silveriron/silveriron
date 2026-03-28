@@ -2,7 +2,7 @@
 
 - **Eun Cheol Kim (김은철, 金恩徹)**, also known as *silveriron*
 - **Ph.D. Student** in **Computational Chemistry** at Seoul National University
-- Available Languages
+- **Polyglot Researcher**
   - **Native**
     - <img src="https://flagcdn.com/16x12/kr.png" width="16"> Korean
   - **Fluent / Business**
@@ -11,7 +11,7 @@
     - <img src="https://flagcdn.com/16x12/cn.png" width="16"> Simplified Chinese (Proficient in reading/writing, HSK 5)
   - **Basic / Familiar with**
     - <img src="https://flagcdn.com/16x12/fr.png" width="16"> French, <img src="https://flagcdn.com/16x12/de.png" width="16"> German, <img src="https://flagcdn.com/16x12/ru.png" width="16"> Russian, <img src="https://flagcdn.com/16x12/sa.png" width="16"> Arabic (Introductory level)
-- *Open to international collaborations and always excited to learn new languages and cultures*
+  - *Open to international collaborations and always excited to learn new languages and cultures*
 
 ## Research Interests
 
@@ -57,7 +57,7 @@
   - Chemistry (Sep 2025 – Dec 2025)
   - Chemistry Lab (Mar 2025 – Jun 2025)
 - **Graduate Teaching Assistant** at Sogang University
-  - General Chemistry (Sep 2023 – Dec 2023)
+  - General Chemistry 2 (Sep 2023 – Dec 2023)
   - General Chemistry Lab 1 (Mar 2023 – Jun 2023)
   - Physical Chemistry Lab 2 (Sep 2022 – Dec 2022)
   - Physical Chemistry Lab 1 (Mar 2022 – Jun 2022)
