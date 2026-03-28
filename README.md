@@ -1,9 +1,7 @@
-# Now Working in Progress
-
 ## About Me
 
-- **Eun Cheol Kim (김은철, 金恩徹)**
-- **Ph.D. Student** in **Computational Chemistry** at Seoul National University, Seoul, Republic of Korea
+- **Eun Cheol Kim (김은철, 金恩徹)**, also known as *silveriron*
+- **Ph.D. Student** in **Computational Chemistry** at Seoul National University
 - Available Languages
   - **Native**
     - <img src="https://flagcdn.com/16x12/kr.png" width="16"> Korean
@@ -43,8 +41,26 @@
 
 ## Publications
 
-- **E. C. Kim**, D. J. Chun, C. B. Park and B. J. Sung*, "Machine Learning Predicts the Glass Transition of Two-Dimensional Colloids Besides Medium Range Crystalline Order", *Phys. Rev. E* **108**, 044602 (2023) DOI: https://doi.org/10.1103/PhysRevE.108.044602
 - *E. C. Kim and YounJoon Jung**, (In preparation)
+- **E. C. Kim**, D. J. Chun, C. B. Park and B. J. Sung*, "Machine Learning Predicts the Glass Transition of Two-Dimensional Colloids Besides Medium Range Crystalline Order", *Phys. Rev. E* **108**, 044602 (2023) DOI: https://doi.org/10.1103/PhysRevE.108.044602
+
+## Honors & Awards
+
+- **Yoon Jeonsu & Lee Samrak (윤전수 & 이삼락) Scholarship**, Seoul National University Foundation (Mar 2026 – Aug 2026)
+- **Best Poster Award**, 140th Summer Symposium of Physical Chemistry Division, Korean Chemical Society (Jun 2023)
+- **Best Poster Award**, 137th Summer Symposium of Physical Chemistry Division, Korean Chemical Society (Jun 2022)
+- **Magna Cum Laude**, Department of Chemistry, Sogang University (Feb 2022)
+
+## Teaching Experience
+
+- **Graduate Teaching Assistant** at Seoul National University
+  - Chemistry (Sep 2025 – Dec 2025)
+  - Chemistry Lab (Mar 2025 – Jun 2025)
+- **Graduate Teaching Assistant** at Sogang University
+  - General Chemistry (Sep 2023 – Dec 2023)
+  - General Chemistry Lab 1 (Mar 2023 – Jun 2023)
+  - Physical Chemistry Lab 2 (Sep 2022 – Dec 2022)
+  - Physical Chemistry Lab 1 (Mar 2022 – Jun 2022)
 
 ## Education & Affiliation
  
@@ -53,7 +69,7 @@
 - **Sogang University**, Seoul, Republic of Korea (Feb 2022 – Feb 2024)
   - M.S. in Chemistry | Advisor: Prof. Bong June Sung
 - **Sogang University**, Seoul, Republic of Korea (Feb 2015 – Feb 2022)
-  - B.S. in Chemistry & B.Ed. in Educational Culture (Double Major, **Magna Cum Laude**)
+  - B.S. in Chemistry & B.Ed. in Educational Culture (**Double Major**)
 
 ## Contacts
 
@@ -64,7 +80,6 @@
 
 ## Miscellaneous
 
-### Why Silveriron?
+### Why *silveriron*?
 
-- In Korean, **은 (Eun)** and **철 (Cheol)** are homonyms for **Silver** ($^{47}\text{Ag}$) and **Iron** ($^{26}\text{Fe}$), respectively. It's a chemical pun on my own name.
-
+- In Korean, **은 (Eun)** and **철 (Cheol)** are homonyms for **silver** ($^{47}\text{Ag}$) and **iron** ($^{26}\text{Fe}$), respectively. It's a chemical pun on my own name.
