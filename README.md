@@ -10,7 +10,7 @@
     - <img src="https://flagcdn.com/16x12/jp.png" width="16"> Japanese (Business level, JLPT N1)
     - <img src="https://flagcdn.com/16x12/cn.png" width="16"> Simplified Chinese (Proficient in reading/writing, HSK 5)
   - **Basic / Familiar with**
-    - <img src="https://flagcdn.com/16x12/fr.png" width="16"> French, <img src="https://flagcdn.com/16x12/de.png" width="16"> German, <img src="https://flagcdn.com/16x12/ru.png" width="16"> Russian, <img src="https://flagcdn.com/16x12/sa.png" width="16"> Arabic (Introductory level)
+    - <img src="https://flagcdn.com/16x12/fr.png" width="16"> French, <img src="https://flagcdn.com/16x12/de.png" width="16"> German, <img src="https://flagcdn.com/16x12/ru.png" width="16"> Russian, and <img src="https://flagcdn.com/16x12/sa.png" width="16"> Arabic (Introductory level)
   - *Open to international collaborations and always excited to learn new languages and cultures*
 
 ## Research Interests
