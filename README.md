@@ -24,7 +24,7 @@
 
 ## Technical Skills
 
-- **MD Simulation:** LAMMPS, OpenMM, CHARMM-GUI, MDAnalysis, MDTraj
+- **MD Simulation:** LAMMPS, OpenMM, GROMACS, PLUMED, CHARMM-GUI, MDAnalysis, MDTraj
 - **QM Simulation:** Gaussian, GAMESS, Avogadro
 - **Cheminformatics & Bioinformatics:** RDKit, BioPython
 - **Protein Modeling**
@@ -41,11 +41,12 @@
 
 ## Publications
 
-- *E. C. Kim and YounJoon Jung**, (In preparation)
+- **E. C. Kim** and Y. Jung*, "ScentOR: Semantic-Only Heterogeneous Knowledge Distillation for Odorant Receptor Deorphanization", *J. Chem. Inf. Model.* in press (2026)
 - **E. C. Kim**, D. J. Chun, C. B. Park and B. J. Sung*, "Machine Learning Predicts the Glass Transition of Two-Dimensional Colloids Besides Medium Range Crystalline Order", *Phys. Rev. E* **108**, 044602 (2023) DOI: https://doi.org/10.1103/PhysRevE.108.044602
 
 ## Honors & Awards
 
+- **Academic Excellence Scholarship**, Seoul National University (Sep 2026 – Feb 2027)
 - **Yoon Jeonsu & Lee Samrak (윤전수 & 이삼락) Scholarship**, Seoul National University Foundation (Mar 2026 – Aug 2026)
 - **Best Poster Award**, 140th Summer Symposium of Physical Chemistry Division, Korean Chemical Society (Jun 2023)
 - **Best Poster Award**, 137th Summer Symposium of Physical Chemistry Division, Korean Chemical Society (Jun 2022)
@@ -54,6 +55,7 @@
 ## Teaching Experience
 
 - **Graduate Teaching Assistant** at Seoul National University
+  - Chemistry 2 (Sep 2026 – Dec 2026)
   - Chemistry (Sep 2025 – Dec 2025)
   - Chemistry Lab (Mar 2025 – Jun 2025)
 - **Graduate Teaching Assistant** at Sogang University
