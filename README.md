@@ -41,7 +41,7 @@
 
 ## Publications
 
-- **E. C. Kim** and Y. Jung*, "ScentOR: Semantic-Only Heterogeneous Knowledge Distillation for Odorant Receptor Deorphanization", *J. Chem. Inf. Model.* in press (2026)
+- **E. C. Kim** and Y. Jung*, "ScentOR: Semantic-Only Heterogeneous Knowledge Distillation for Odorant Receptor Deorphanization", *J. Chem. Inf. Model.* in press (2026) DOI: https://doi.org/10.1021/acs.jcim.6c02123
 - **E. C. Kim**, D. J. Chun, C. B. Park and B. J. Sung*, "Machine Learning Predicts the Glass Transition of Two-Dimensional Colloids Besides Medium Range Crystalline Order", *Phys. Rev. E* **108**, 044602 (2023) DOI: https://doi.org/10.1103/PhysRevE.108.044602
 
 ## Honors & Awards
